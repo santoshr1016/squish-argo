@@ -5,4 +5,4 @@ metadata:
   labels:
     app: sample-app
 data:
-  MESSAGE: "Hello World"
+  MESSAGE: "Hello World in Red"
